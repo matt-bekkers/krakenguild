@@ -1,4 +1,1 @@
-# my-website
-Repo for my website
-
-coming soon TM
+location on server: /srv/git/
